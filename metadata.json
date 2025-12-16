@@ -1,0 +1,5 @@
+{
+  "name": "Raku-Recipe AI",
+  "description": "Smart recipe generator that creates simple, delicious Japanese meals based on ingredients you have and your pantry staples.",
+  "requestFramePermissions": []
+}
